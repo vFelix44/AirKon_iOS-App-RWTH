@@ -13,3 +13,5 @@ You can also download the used ImageTargets (Markers) used and a demonstration v
 Have fun testing
 
 Felix
+
+LinkedIn: https://www.linkedin.com/in/felix-g-574a9b236/
