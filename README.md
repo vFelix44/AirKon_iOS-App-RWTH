@@ -10,6 +10,8 @@ Hello and welcome to my github repository!
 In this repository you can download an XR assembly instruction for iOS devices. You will also receive installation instructions and a short operating manual as a PDF file. 
 You can also download the used ImageTargets (Markers) used and a demonstration video.
 
+The software development was part of the AirKon research project (https://www.icom.rwth-aachen.de/cms/icom/forschung/forschungsprojekte/~uzfvz/air-kon-matrizen/) and was developed as part of my master's thesis.
+
 Have fun testing
 
 Felix
