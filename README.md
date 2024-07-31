@@ -1,6 +1,6 @@
 # AirKon_iOS-App-RWTH
 
-![IMG_0285](https://github.com/user-attachments/assets/b74e03f5-6c22-4a62-8731-53caf50c66c8)
+![IMG_0291](https://github.com/user-attachments/assets/a9c65e7f-adf5-4b7c-82c4-821d03b35f8e)
 #AirKon #RWTH #ICoM #XR #AssemblyInstructions #HollowBody
 
 Hello and welcome to my github repository!
