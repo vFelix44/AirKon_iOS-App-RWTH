@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="QRCodeLowPx" size="1.000000 1.000000" />
+    <ImageTarget name="QRCodeHighPx" size="1.000000 1.000000" />
+    <ImageTarget name="barcode" size="1.000000 0.644366" />
+    <ImageTarget name="imagetarget7" size="1.000000 0.880000" />
+    <ImageTarget name="imagetarget6" size="1.000000 0.703422" />
+    <ImageTarget name="imagetarget5" size="1.000000 1.000000" />
+    <ImageTarget name="imagetarget4" size="1.000000 1.000000" />
+    <ImageTarget name="imagetarget3" size="1.000000 0.750000" />
+    <ImageTarget name="imagetarget2" size="1.000000 0.800000" />
+    <ImageTarget name="ImageTarget1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
