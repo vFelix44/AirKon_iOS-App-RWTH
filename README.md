@@ -1,7 +1,7 @@
 # AirKon_iOS-App-RWTH
 
 ![IMG_0291](https://github.com/user-attachments/assets/a9c65e7f-adf5-4b7c-82c4-821d03b35f8e)
-#AirKon #RWTH #ICoM #XR #AssemblyInstructions #HollowBody
+#AirKon #RWTH #ICoM #XR #AssemblyInstructions #HollowBody #BubbleSlab #ConcreteReduction
 
 ---------------------------------------------------------------------------------------------
 
