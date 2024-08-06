@@ -15,7 +15,7 @@ The software development was part of the AirKon research project and was develop
 Useful Links:
 -  AirKon Research Project: https://www.icom.rwth-aachen.de/cms/icom/forschung/forschungsprojekte/~uzfvz/air-kon-matrizen/
 
--  YouTube Demonstration-Video: https://youtu.be/8FgkY_iMIZU
+-  YouTube Video: https://youtu.be/8FgkY_iMIZU
 
 -  LinkedIn: https://www.linkedin.com/in/felix-g-574a9b236/
 
